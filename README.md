@@ -1,1 +1,5 @@
 red
+
+red
+green
+blue
