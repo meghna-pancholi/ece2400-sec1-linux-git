@@ -2,6 +2,7 @@
 green
 blue
 
+red
 green
 
 orange
