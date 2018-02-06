@@ -1,6 +1,5 @@
 red
 
-red
 green
 blue
 
