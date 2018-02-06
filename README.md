@@ -1,9 +1,7 @@
-red
 
 green
 blue
 
-red
 green
 
 orange
